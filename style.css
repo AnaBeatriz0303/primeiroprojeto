@@ -1,0 +1,24 @@
+body{
+
+    display: flex ;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.ana{
+    background-color: #aba8a8;
+    color: azure;
+    width: 100%;
+    text-align: center;
+    font-style:oblique;
+
+}
+
+#inacio {
+    margin-top: 20%;
+    
+}
